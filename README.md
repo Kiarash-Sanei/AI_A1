@@ -1,0 +1,1 @@
+This Assignment is about uninformed, informed, and local search and comparing and implementing them.
